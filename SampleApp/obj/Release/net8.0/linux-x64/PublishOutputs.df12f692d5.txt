@@ -1,0 +1,11 @@
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\SampleApp
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\SampleApp.dll
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\SampleApp.deps.json
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\SampleApp.runtimeconfig.json
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\SampleApp.pdb
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MuhammadNabeel\source\repos\Linux_app\SampleApp\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

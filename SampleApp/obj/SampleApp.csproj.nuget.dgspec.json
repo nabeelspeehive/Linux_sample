@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MuhammadNabeel\\source\\repos\\SampleApp\\SampleApp.csproj": {}
+    "C:\\Users\\MuhammadNabeel\\source\\repos\\Linux_app\\SampleApp\\SampleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MuhammadNabeel\\source\\repos\\SampleApp\\SampleApp.csproj": {
+    "C:\\Users\\MuhammadNabeel\\source\\repos\\Linux_app\\SampleApp\\SampleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MuhammadNabeel\\source\\repos\\SampleApp\\SampleApp.csproj",
+        "projectUniqueName": "C:\\Users\\MuhammadNabeel\\source\\repos\\Linux_app\\SampleApp\\SampleApp.csproj",
         "projectName": "SampleApp",
-        "projectPath": "C:\\Users\\MuhammadNabeel\\source\\repos\\SampleApp\\SampleApp.csproj",
+        "projectPath": "C:\\Users\\MuhammadNabeel\\source\\repos\\Linux_app\\SampleApp\\SampleApp.csproj",
         "packagesPath": "C:\\Users\\MuhammadNabeel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MuhammadNabeel\\source\\repos\\SampleApp\\obj\\",
+        "outputPath": "C:\\Users\\MuhammadNabeel\\source\\repos\\Linux_app\\SampleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MuhammadNabeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
